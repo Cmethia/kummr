@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 I forgot to add. I am sorry
 
+=======
+hello 
+>>>>>>> dc4b6924871a749329366bcdb7b76ecda3a35c5e
